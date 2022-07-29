@@ -1,6 +1,6 @@
 # Curso Introdutório ao Git Hub
 
-<<<<<<< HEAD
+
 ###  [Syntax para utilização do Markdown](https://www.markdownguide.org/basic-syntax/#headings)
 
 ####       git status 
@@ -34,6 +34,3 @@
   #### git push origin main
 
 - Exporta os dados do arquivo, para o arquivo alocado em nuvem
-=======
-[Syntax para utilização do Markdown](tps://www.markdownguide.org/basic-syntax/#headings)
->>>>>>> dca74d95d8bc5c15189bffb4665813d75eca4b40
